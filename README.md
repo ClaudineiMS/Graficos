@@ -13,7 +13,7 @@ No diretório do projeto, você pode executar:
 Executa o aplicativo no modo de desenvolvimento.\
 Abra (http://localhost:3000)
 
-### Calculadora
+### Gráficos
 
 ![Calculadora](./imagens/1.png)
 ![Calculadora](./imagens/2.png)
